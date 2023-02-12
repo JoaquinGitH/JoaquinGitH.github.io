@@ -1,0 +1,49 @@
+*{
+ margin: 0px;
+}
+h1 {
+    font-family:'Noto Sans Adlam Unjoined', sans-serif;;
+    font-size: large;
+    text-decoration-line: underline;
+    text-align: center;
+
+}
+.div1{
+    font-family:'Noto Sans Adlam Unjoined', sans-serif;;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration-line: underline;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px
+}
+
+p {
+    font-family:'Noto Sans Adlam Unjoined', sans-serif;;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration-line: underline;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+
+}
+
+.div2 {
+    font-family:'Noto Sans Adlam Unjoined', sans-serif;;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration-line: underline;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px
+
+}
+
+label {
+    font-size: 15px;
+    padding-left: 12px;
+    padding-top: 15px;
+    border-left: 5px;
+
+}

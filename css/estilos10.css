@@ -1,0 +1,51 @@
+*{
+    background-color: blanchedalmond;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+header{
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: 50px;
+
+}
+
+.contenido{
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+
+}
+
+.imagen {
+    position: absolute;
+}
+
+.imagenCircular{
+    border-radius: 50%;
+    border-style: solid;
+}
+
+.datos{
+    padding-top: 10px;
+    font-weight: bold;
+
+}
+
+h2{
+    padding-top: 10px;
+    text-decoration-line: underline;
+
+}
+
+.informacion{
+    padding-left: 10px;
+
+}
+
+.punteado{
+    padding-left: 15px;
+    font-weight: bolder;
+
+}

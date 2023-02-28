@@ -13,14 +13,10 @@ header{
 }
 
 .contenido{
-    text-align: center;
+    text-align: right;
     font-size: 20px;
     font-style: italic;
-
-}
-
-.imagen {
-    position: absolute;
+    margin-right: 20px;
 }
 
 .imagenCircular{
@@ -48,5 +44,11 @@ h2{
 .punteado{
     padding-left: 15px;
     font-weight: bolder;
+
+}
+
+body{
+    border: double black 5px;
+    padding: 10px;
 
 }
